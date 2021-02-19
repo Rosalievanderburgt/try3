@@ -1,0 +1,25 @@
+@charset "UTF-8";
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+.my-class{
+	color: mediumvioletred;
+}
+
+#my-id { 
+    color: darkred;
+
+}
+
+.my-container { 
+ padding: 10px 5px 20px ;
+ color: darkblue;
+ background-color: lightblue;
+ border: 2px solid darkblue;
+ text-align: center;
+}
+
+.my-margins { 
+ padding: 10px 10px 10px 10px ;
+ color: darkblue;
+ background-color: lightblue;
+ text-align: center;
+}
